@@ -1,0 +1,7 @@
+arguments: src/align_dataset_mtcnn.py /home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/raw /home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed --image_size 160 --margin 32 --random_order --gpu_memory_fraction 0.25
+--------------------
+tensorflow version: 2.14.0
+--------------------
+git hash: b'69ff1e149c0d84a123d6516ddd82970e65392608'
+--------------------
+b''

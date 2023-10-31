@@ -1,0 +1,339 @@
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Dat/Dat (29).png 576 125 876 489
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Dat/Dat (24).png 571 146 920 572
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Dat/Dat (41).png 503 203 834 607
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Dat/Dat (1).png 523 178 868 613
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Dat/Dat (19).png 570 132 885 518
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Dat/Dat (30).png 563 129 864 484
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Dat/Dat (38).png 646 145 967 537
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Dat/Dat (16).png 547 217 866 603
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Dat/Dat (43).png 491 186 828 606
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Dat/Dat (27).png 539 137 842 497
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Dat/Dat (11).png 516 176 861 614
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Dat/Dat (15).png 576 158 907 563
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Dat/Dat (32).png 583 142 890 515
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Dat/Dat (26).png 555 150 887 553
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Dat/Dat (46).png 487 143 816 542
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Dat/Dat (10).png 468 225 821 651
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Dat/Dat (45).png 516 141 836 526
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Dat/Dat (5).png 558 141 879 553
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Dat/Dat (13).png 540 160 858 563
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Dat/Dat (23).png 536 111 857 516
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Dat/Dat (34).png 357 170 691 556
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Dat/Dat (3).png 564 151 894 589
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Dat/Dat (48).png 482 162 816 567
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Dat/Dat (18).png 384 137 712 529
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Dat/Dat (6).png 514 143 842 552
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Dat/Dat (37).png 573 135 899 541
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Dat/Dat (7).png 523 177 867 615
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Dat/Dat (22).png 519 146 859 562
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Dat/Dat (35).png 483 155 813 549
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Dat/Dat (44).png 557 152 890 574
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Dat/Dat (4).png 544 137 867 548
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Dat/Dat (39).png 538 86 854 463
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Dat/Dat (47).png 476 165 818 589
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Dat/Dat (28).png 507 131 825 518
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Dat/Dat (40).png 707 79 1006 481
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Dat/Dat (21).png 542 162 879 581
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Dat/Dat (42).png 515 217 844 618
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Dat/Dat (9).png 436 186 779 607
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Dat/Dat (33).png 521 168 845 563
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Dat/Dat (49).png 495 182 835 604
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Dat/Dat (36).png 614 137 940 536
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Dat/Dat (14).png 509 152 831 559
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Dat/Dat (25).png 519 142 844 543
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Dat/Dat (50).png 527 169 876 608
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Dat/Dat (8).png 437 172 776 587
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Dat/Dat (20).png 452 214 788 623
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Dat/Dat (31).png 571 162 880 554
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Dat/Dat (2).png 551 164 885 589
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Dat/Dat (17).png 616 184 955 602
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Dat/Dat (12).png 540 146 870 565
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Lam/WIN_20231031_21_31_43_Pro (2).png 491 249 861 699
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Lam/WIN_20231031_21_31_28_Pro.png 462 208 829 640
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Lam/WIN_20231031_21_31_56_Pro (2).png 467 223 831 652
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Lam/WIN_20231031_21_31_32_Pro (2).png 462 180 841 625
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Lam/WIN_20231031_21_31_36_Pro (2).png 495 216 859 649
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Lam/WIN_20231031_21_31_45_Pro (2).png 492 221 853 653
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Lam/WIN_20231031_21_31_24_Pro.png 470 267 816 673
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Lam/WIN_20231031_21_31_29_Pro (2).png 514 206 870 635
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Lam/WIN_20231031_21_31_36_Pro.png 467 200 843 640
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Lam/WIN_20231031_21_31_24_Pro (2).png 455 237 825 674
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Lam/WIN_20231031_21_31_51_Pro (2).png 440 210 841 673
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Lam/WIN_20231031_21_31_32_Pro.png 461 198 846 646
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Lam/WIN_20231031_21_31_39_Pro.png 503 230 867 671
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Lam/WIN_20231031_21_31_43_Pro.png 464 248 822 673
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Lam/WIN_20231031_21_31_25_Pro.png 459 246 817 667
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Lam/WIN_20231031_21_31_45_Pro.png 442 200 834 656
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Lam/WIN_20231031_21_31_33_Pro (2).png 483 211 853 653
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Lam/WIN_20231031_21_31_20_Pro (2).png 463 273 804 672
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Lam/WIN_20231031_21_31_51_Pro.png 470 223 820 655
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Lam/WIN_20231031_21_31_34_Pro.png 456 226 839 675
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Lam/WIN_20231031_21_31_36_Pro (3).png 525 232 879 651
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Lam/WIN_20231031_21_31_19_Pro (2).png 488 265 827 667
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Lam/WIN_20231031_21_31_58_Pro.png 453 264 824 692
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Lam/WIN_20231031_21_31_27_Pro (2).png 478 219 868 691
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Lam/WIN_20231031_21_31_57_Pro.png 467 239 857 695
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Lam/WIN_20231031_21_31_37_Pro.png 496 214 858 643
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Lam/WIN_20231031_21_31_28_Pro (2).png 480 195 822 603
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Lam/WIN_20231031_21_31_53_Pro (2).png 488 200 849 628
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Lam/WIN_20231031_21_31_30_Pro.png 488 218 852 649
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Lam/WIN_20231031_21_31_29_Pro.png 478 163 856 623
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Lam/WIN_20231031_21_31_22_Pro.png 510 268 831 653
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Lam/WIN_20231031_21_31_42_Pro (2).png 479 236 850 678
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Lam/WIN_20231031_21_31_52_Pro.png 479 232 847 668
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Lam/WIN_20231031_21_31_38_Pro.png 439 193 830 657
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Lam/WIN_20231031_21_31_35_Pro (2).png 457 205 833 655
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Lam/WIN_20231031_21_31_48_Pro (2).png 469 229 858 698
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Lam/WIN_20231031_21_31_40_Pro.png 455 193 855 684
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Lam/WIN_20231031_21_31_48_Pro.png 448 216 833 672
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Lam/WIN_20231031_21_31_35_Pro.png 453 215 832 666
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Lam/WIN_20231031_21_31_22_Pro (2).png 472 255 816 680
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Lam/WIN_20231031_21_31_55_Pro (2).png 499 239 864 674
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Lam/WIN_20231031_21_31_46_Pro.png 513 219 873 651
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Lam/WIN_20231031_21_31_49_Pro (2).png 499 234 867 683
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Lam/WIN_20231031_21_31_26_Pro.png 455 249 798 654
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Lam/WIN_20231031_21_31_37_Pro (2).png 484 202 853 634
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Lam/WIN_20231031_21_31_56_Pro.png 439 230 823 674
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Lam/WIN_20231031_21_31_50_Pro (2).png 459 170 843 641
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Lam/WIN_20231031_21_31_54_Pro (2).png 447 209 840 676
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Lam/WIN_20231031_21_31_23_Pro (2).png 467 300 810 701
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Lam/WIN_20231031_21_31_39_Pro (2).png 505 219 880 664
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Lam/WIN_20231031_21_31_23_Pro.png 455 275 792 672
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Lam/WIN_20231031_21_31_44_Pro.png 503 227 872 673
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Lam/WIN_20231031_21_31_20_Pro.png 480 271 811 666
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Lam/WIN_20231031_21_31_54_Pro.png 481 206 838 631
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Lam/WIN_20231031_21_31_33_Pro.png 516 202 871 624
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Lam/WIN_20231031_21_31_53_Pro.png 508 231 869 658
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Lam/WIN_20231031_21_31_21_Pro.png 468 279 818 702
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Lam/WIN_20231031_21_31_58_Pro (2).png 451 218 832 671
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Lam/WIN_20231031_21_31_34_Pro (2).png 472 219 840 670
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Lam/WIN_20231031_21_31_31_Pro (2).png 455 191 830 649
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Lam/WIN_20231031_21_31_21_Pro (2).png 467 250 813 656
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Lam/WIN_20231031_21_31_42_Pro.png 477 228 858 666
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Lam/WIN_20231031_21_31_44_Pro (2).png 500 236 855 666
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Lam/WIN_20231031_21_31_41_Pro (2).png 516 209 861 627
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Lam/WIN_20231031_21_31_31_Pro.png 454 220 821 646
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Lam/WIN_20231031_21_31_47_Pro.png 472 230 842 671
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Lam/WIN_20231031_21_31_50_Pro.png 444 200 839 663
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Lam/WIN_20231031_21_31_41_Pro.png 479 209 850 648
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Lam/WIN_20231031_21_31_59_Pro.png 440 222 839 681
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Lam/WIN_20231031_21_31_49_Pro.png 524 231 896 695
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Lam/WIN_20231031_21_31_38_Pro (2).png 445 216 835 661
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Lam/WIN_20231031_21_31_27_Pro.png 448 218 828 673
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Lam/WIN_20231031_21_31_55_Pro.png 453 230 839 666
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Lam/WIN_20231031_21_31_57_Pro (2).png 498 239 873 703
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Lam/WIN_20231031_21_31_46_Pro (2).png 484 218 853 656
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Lam/WIN_20231031_21_31_19_Pro.png 446 261 794 667
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Lam/WIN_20231031_21_31_40_Pro (2).png 445 201 833 655
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Tuan_Minh/frame_8.png 222 169 407 397
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Tuan_Minh/frame_0.png 222 195 406 418
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Tuan_Minh/frame_4.png 203 161 397 392
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Tuan_Minh/frame_13.png 224 150 417 378
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Tuan_Minh/frame_65.png 204 182 395 414
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Tuan_Minh/frame_1.png 218 196 406 419
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Tuan_Minh/frame_10.png 220 159 413 388
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Tuan_Minh/frame_5.png 208 166 402 397
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Tuan_Minh/frame_46.png 241 158 419 376
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Tuan_Minh/frame_72.png 228 182 413 411
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Tuan_Minh/frame_60.png 204 160 386 385
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Tuan_Minh/frame_54.png 231 153 408 358
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Tuan_Minh/frame_12.png 222 153 415 382
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Tuan_Minh/frame_62.png 203 175 390 400
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Tuan_Minh/frame_78.png 226 170 407 395
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Tuan_Minh/frame_3.png 211 165 401 390
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Tuan_Minh/frame_7.png 210 163 400 394
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Tuan_Minh/frame_9.png 217 162 411 391
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Tuan_Minh/frame_49.png 249 158 425 366
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Tuan_Minh/frame_6.png 211 159 405 397
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Tuan_Minh/frame_48.png 249 163 422 370
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Tuan_Minh/frame_58.png 210 152 391 366
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Tuan_Minh/frame_15.png 245 160 422 365
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Tuan_Minh/frame_74.png 225 166 411 394
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Tuan_Minh/frame_66.png 208 185 398 416
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Tuan_Minh/frame_17.png 240 157 426 378
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Tuan_Minh/frame_59.png 205 158 389 379
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Tuan_Minh/frame_71.png 220 182 409 413
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Tuan_Minh/frame_61.png 203 165 389 395
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Tuan_Minh/frame_53.png 236 151 414 359
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Tuan_Minh/frame_67.png 206 181 407 426
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Tuan_Minh/frame_64.png 198 179 394 415
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Tuan_Minh/frame_56.png 223 153 399 359
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Tuan_Minh/frame_55.png 226 151 404 357
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Tuan_Minh/frame_76.png 223 167 407 389
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Tuan_Minh/frame_18.png 237 166 419 390
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Tuan_Minh/frame_69.png 208 190 408 427
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Tuan_Minh/frame_68.png 211 191 406 422
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Tuan_Minh/frame_16.png 246 163 424 371
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Tuan_Minh/frame_52.png 239 149 418 362
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Tuan_Minh/frame_70.png 220 184 408 408
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Tuan_Minh/frame_63.png 199 175 392 413
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Tuan_Minh/frame_14.png 240 156 415 365
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Tuan_Minh/frame_57.png 221 153 396 359
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Tuan_Minh/frame_50.png 245 151 428 370
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Tuan_Minh/frame_73.png 229 173 415 404
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Tuan_Minh/frame_51.png 245 150 419 360
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Tuan_Minh/frame_47.png 246 159 419 370
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Tuan_Minh/frame_2.png 210 167 407 400
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Tuan_Minh/frame_11.png 221 156 414 385
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Nam/Nam.17.png 494 232 831 658
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Nam/Nam.48.png 510 215 843 575
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Nam/Nam.20.png 468 226 799 654
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Nam/Nam.46.png 501 205 832 569
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Nam/Nam.47.png 488 207 823 580
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Nam/Nam.45.png 495 212 824 570
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Nam/Nam.1.png 484 207 828 597
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Nam/Nam.9.png 506 246 833 645
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Nam/Nam.18.png 466 232 810 659
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Nam/Nam.55.png 483 230 822 630
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Nam/Nam.41.png 484 217 803 584
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Nam/Nam.56.png 487 224 821 619
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Nam/Nam.7.png 498 231 848 636
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Nam/Nam.36.png 452 214 760 589
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Nam/Nam.39.png 475 219 780 582
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Nam/Nam.38.png 459 212 775 586
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Nam/Nam.15.png 486 225 828 647
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Nam/Nam.13.png 502 244 833 649
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Nam/Nam.16.png 490 232 824 662
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Nam/Nam.49.png 506 208 842 574
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Nam/Nam.50.png 509 222 844 594
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Nam/Nam.53.png 491 218 829 612
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Nam/Nam.34.png 443 210 755 598
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Nam/Nam.32.png 448 212 767 622
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Nam/Nam.30.png 446 219 759 615
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Nam/Nam.37.png 454 216 766 583
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Nam/Nam.3.png 502 220 843 622
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Nam/Nam.10.png 508 241 832 633
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Nam/Nam.35.png 450 210 762 586
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Nam/Nam.19.png 481 234 821 663
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Nam/Nam.44.png 489 203 821 575
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Nam/Nam.59.png 483 237 817 634
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Nam/Nam.11.png 508 253 828 647
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Nam/Nam.25.png 460 218 783 646
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Nam/Nam.54.png 496 218 838 608
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Nam/Nam.29.png 447 213 769 630
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Nam/Nam.6.png 497 229 832 633
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Nam/Nam.4.png 501 219 843 614
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Nam/Nam.12.png 496 233 832 649
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Nam/Nam.33.png 445 204 760 594
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Nam/Nam.23.png 459 221 795 656
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Nam/Nam.14.png 499 234 823 642
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Nam/Nam.22.png 459 224 788 650
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Nam/Nam.51.png 509 217 841 578
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Nam/Nam.52.png 501 228 832 599
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Nam/Nam.31.png 443 205 757 603
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Nam/Nam.57.png 484 225 825 638
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Nam/Nam.58.png 480 229 819 638
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Nam/Nam.5.png 497 227 847 629
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Nam/Nam.27.png 455 216 777 632
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Nam/Nam.8.png 502 231 847 633
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Nam/Nam.24.png 460 216 776 633
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Nam/Nam.2.png 496 207 842 609
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Nam/Nam.42.png 498 209 812 570
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Nam/Nam.28.png 446 214 766 624
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Nam/Nam.40.png 470 210 776 577
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Nam/Nam.21.png 465 260 778 654
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Nam/Nam.43.png 478 213 791 579
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Nam/Nam.26.png 451 228 771 634
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Thien_Minh/Tran_Thien_Minh27.png 251 68 509 400
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Thien_Minh/Tran_Thien_Minh31.png 251 64 508 397
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Thien_Minh/Tran_Thien_Minh53.png 249 66 503 393
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Thien_Minh/Tran_Thien_Minh57.png 255 72 503 382
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Thien_Minh/Tran_Thien_Minh28.png 254 73 509 400
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Thien_Minh/Tran_Thien_Minh3.png 248 67 502 390
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Thien_Minh/Tran_Thien_Minh2.png 247 59 508 395
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Thien_Minh/Tran_Thien_Minh55.png 251 69 504 388
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Thien_Minh/Tran_Thien_Minh54.png 253 70 502 389
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Thien_Minh/Tran_Thien_Minh17.png 250 60 512 395
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Thien_Minh/Tran_Thien_Minh20.png 255 68 515 401
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Thien_Minh/Tran_Thien_Minh4.png 247 68 502 391
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Thien_Minh/Tran_Thien_Minh34.png 264 82 509 390
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Thien_Minh/Tran_Thien_Minh29.png 254 71 510 401
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Thien_Minh/Tran_Thien_Minh18.png 257 66 507 394
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Thien_Minh/Tran_Thien_Minh0.png 246 63 503 394
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Thien_Minh/Tran_Thien_Minh65.png 262 80 500 376
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Thien_Minh/Tran_Thien_Minh58.png 254 72 503 381
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Thien_Minh/Tran_Thien_Minh12.png 255 74 505 398
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Thien_Minh/Tran_Thien_Minh7.png 249 65 504 391
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Thien_Minh/Tran_Thien_Minh52.png 248 62 508 397
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Thien_Minh/Tran_Thien_Minh11.png 251 61 506 389
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Thien_Minh/Tran_Thien_Minh14.png 255 66 507 397
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Thien_Minh/Tran_Thien_Minh32.png 249 78 504 394
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Thien_Minh/Tran_Thien_Minh10.png 250 69 510 405
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Thien_Minh/Tran_Thien_Minh47.png 253 75 505 390
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Thien_Minh/Tran_Thien_Minh23.png 251 59 511 395
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Thien_Minh/Tran_Thien_Minh56.png 251 70 502 387
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Thien_Minh/Tran_Thien_Minh33.png 250 63 513 400
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Thien_Minh/Tran_Thien_Minh59.png 260 80 499 380
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Thien_Minh/Tran_Thien_Minh50.png 249 67 506 394
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Thien_Minh/Tran_Thien_Minh16.png 251 57 512 397
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Thien_Minh/Tran_Thien_Minh1.png 247 66 504 392
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Thien_Minh/Tran_Thien_Minh24.png 257 62 511 402
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Thien_Minh/Tran_Thien_Minh19.png 252 59 513 394
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Thien_Minh/Tran_Thien_Minh64.png 259 79 500 377
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Thien_Minh/Tran_Thien_Minh6.png 253 73 504 398
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Thien_Minh/Tran_Thien_Minh63.png 261 80 501 378
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Thien_Minh/Tran_Thien_Minh60.png 258 77 501 378
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Thien_Minh/Tran_Thien_Minh62.png 262 81 501 376
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Thien_Minh/Tran_Thien_Minh30.png 251 68 507 397
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Thien_Minh/Tran_Thien_Minh15.png 254 65 517 401
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Thien_Minh/Tran_Thien_Minh9.png 252 65 504 390
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Thien_Minh/Tran_Thien_Minh48.png 253 73 504 392
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Thien_Minh/Tran_Thien_Minh13.png 254 75 506 397
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Thien_Minh/Tran_Thien_Minh8.png 252 64 504 389
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Thien_Minh/Tran_Thien_Minh26.png 255 70 512 401
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Thien_Minh/Tran_Thien_Minh61.png 261 81 500 377
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Thien_Minh/Tran_Thien_Minh21.png 254 62 512 396
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Thien_Minh/Tran_Thien_Minh49.png 250 68 505 393
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Thien_Minh/Tran_Thien_Minh25.png 253 61 511 396
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Thien_Minh/Tran_Thien_Minh22.png 255 63 516 403
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Thien_Minh/Tran_Thien_Minh46.png 262 76 511 390
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Thien_Minh/Tran_Thien_Minh51.png 249 62 508 397
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Thien_Minh/Tran_Thien_Minh5.png 246 60 507 393
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Hung/WIN_20231031_21_49_54_Pro (2).png 517 169 878 650
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Hung/WIN_20231031_21_50_05_Pro.png 472 165 834 638
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Hung/WIN_20231031_21_50_08_Pro (2).png 514 155 880 622
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Hung/WIN_20231031_21_50_12_Pro (3).png 543 232 903 709
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Hung/WIN_20231031_21_49_58_Pro.png 487 163 866 654
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Hung/WIN_20231031_21_49_55_Pro (2).png 566 197 897 643
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Hung/WIN_20231031_21_49_58_Pro (3).png 504 133 860 598
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Hung/WIN_20231031_21_49_51_Pro (2).png 425 202 778 652
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Hung/WIN_20231031_21_49_51_Pro.png 429 182 778 639
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Hung/WIN_20231031_21_50_05_Pro (3).png 446 151 788 593
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Hung/WIN_20231031_21_50_10_Pro.png 565 138 911 584
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Hung/WIN_20231031_21_50_03_Pro.png 487 272 853 720
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Hung/WIN_20231031_21_50_09_Pro (3).png 551 138 883 557
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Hung/WIN_20231031_21_49_59_Pro (3).png 525 131 862 530
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Hung/WIN_20231031_21_50_11_Pro (2).png 525 171 876 655
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Hung/WIN_20231031_21_50_16_Pro.png 427 184 810 689
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Hung/WIN_20231031_21_49_49_Pro.png 476 172 842 647
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Hung/WIN_20231031_21_50_11_Pro.png 491 154 866 643
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Hung/WIN_20231031_21_50_06_Pro (2).png 426 146 767 577
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Hung/WIN_20231031_21_49_59_Pro (2).png 512 128 851 550
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Hung/WIN_20231031_21_49_54_Pro.png 477 171 854 651
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Hung/WIN_20231031_21_50_12_Pro.png 529 186 891 670
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Hung/WIN_20231031_21_50_02_Pro (3).png 489 212 846 711
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Hung/WIN_20231031_21_50_06_Pro.png 432 151 774 589
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Hung/WIN_20231031_21_50_09_Pro (2).png 549 122 893 561
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Hung/WIN_20231031_21_49_59_Pro.png 521 128 860 567
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Hung/WIN_20231031_21_50_16_Pro (2).png 422 222 794 701
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Hung/WIN_20231031_21_49_56_Pro.png 567 212 906 656
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Hung/WIN_20231031_21_50_15_Pro (2).png 429 190 821 688
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Hung/WIN_20231031_21_49_55_Pro.png 521 184 874 650
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Hung/WIN_20231031_21_50_15_Pro.png 479 175 855 673
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Hung/WIN_20231031_21_50_06_Pro (3).png 417 165 742 566
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Hung/WIN_20231031_21_49_49_Pro (2).png 462 174 832 647
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Hung/WIN_20231031_21_50_05_Pro (2).png 465 147 818 626
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Hung/WIN_20231031_21_50_02_Pro.png 482 172 862 669
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Hung/WIN_20231031_21_49_54_Pro (3).png 530 164 889 648
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Hung/WIN_20231031_21_50_02_Pro (2).png 492 213 847 688
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Hung/WIN_20231031_21_50_12_Pro (2).png 530 215 892 692
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Hung/WIN_20231031_21_49_50_Pro.png 464 153 835 646
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Hung/WIN_20231031_21_49_58_Pro (2).png 495 154 855 635
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Hung/WIN_20231031_21_50_09_Pro.png 550 156 889 576
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Hung/WIN_20231031_21_49_50_Pro (2).png 435 160 809 651
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Hung/WIN_20231031_21_50_14_Pro.png 482 167 848 652
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Hung/WIN_20231031_21_50_03_Pro (2).png 483 296 894 720
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Hung/WIN_20231031_21_50_13_Pro.png 543 275 921 720
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Hung/WIN_20231031_21_49_51_Pro (3).png 403 212 745 663
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Hung/WIN_20231031_21_50_01_Pro.png 497 169 845 632
+/home/dngback/Desktop/MiAI_FaceRecog_3/DataSet/FaceData/processed/Hung/WIN_20231031_21_50_08_Pro.png 507 157 863 644

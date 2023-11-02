@@ -32,9 +32,11 @@ def main():
     FACTOR = 0.709
     IMAGE_SIZE = 182
     INPUT_IMAGE_SIZE = 160
-    CLASSIFIER_PATH = "/home/dngback/Desktop/MiAI_FaceRecog_3/Models/facemodel.pkl"
+    CLASSIFIER_PATH = "/Desktop/FaceRecogWithFaceNet/Models/facemodel.pkl"
     VIDEO_PATH = args.path
-    FACENET_MODEL_PATH = "/home/dngback/Desktop/MiAI_FaceRecog_3/Models/20180402-114759/20180402-114759.pb"
+    FACENET_MODEL_PATH = (
+        "/Desktop/FaceRecogWithFaceNet/Models/20180402-114759/20180402-114759.pb"
+    )
 
     # Load The Custom Classifier
     with open(CLASSIFIER_PATH, "rb") as file:

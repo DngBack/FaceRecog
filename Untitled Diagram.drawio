@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-19T15:36:12.201Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="7TlfDpF2nvrv_oFUbfDH" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-19T15:40:31.048Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="GPxwvVvGCOv0alENQuG-" version="23.1.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="876" dy="651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -36,8 +36,11 @@
         <mxCell id="rFPYdPDs8KEpfW9z9bJu-9" value="Check Number of Material" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="640" y="160" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rFPYdPDs8KEpfW9z9bJu-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rFPYdPDs8KEpfW9z9bJu-11" target="rFPYdPDs8KEpfW9z9bJu-13">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="rFPYdPDs8KEpfW9z9bJu-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="940" y="179.5" as="sourcePoint" />
+            <mxPoint x="1040" y="179.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="rFPYdPDs8KEpfW9z9bJu-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rFPYdPDs8KEpfW9z9bJu-11" target="rFPYdPDs8KEpfW9z9bJu-16">
           <mxGeometry relative="1" as="geometry" />
@@ -54,14 +57,17 @@
         <mxCell id="rFPYdPDs8KEpfW9z9bJu-16" value="List of missing materials" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="820" y="280" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="rFPYdPDs8KEpfW9z9bJu-18" value="no&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="210" y="663" width="40" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="rFPYdPDs8KEpfW9z9bJu-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rFPYdPDs8KEpfW9z9bJu-19" target="rFPYdPDs8KEpfW9z9bJu-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rFPYdPDs8KEpfW9z9bJu-19" value="Take&amp;nbsp; Missing Materials" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1040" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rFPYdPDs8KEpfW9z9bJu-28" value="Yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="950" y="150" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rFPYdPDs8KEpfW9z9bJu-29" value="No" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="870" y="230" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

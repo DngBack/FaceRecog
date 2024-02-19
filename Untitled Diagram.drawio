@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-19T16:06:03.857Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="Df3fyOAHYPtnSjH3j12x" version="23.1.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-02-19T16:09:01.479Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="fpeHu-TUr0ECK6KOtuIY" version="23.1.5" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1116" dy="651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -121,8 +121,26 @@
         <mxCell id="YCk-cneeA02lU8JWPHm_-13" value="Check Quantity of Object" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1040" y="80" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="YCk-cneeA02lU8JWPHm_-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YCk-cneeA02lU8JWPHm_-17" target="YCk-cneeA02lU8JWPHm_-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YCk-cneeA02lU8JWPHm_-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YCk-cneeA02lU8JWPHm_-17" target="YCk-cneeA02lU8JWPHm_-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YCk-cneeA02lU8JWPHm_-17" value="Enough Material?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1260" y="70" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YCk-cneeA02lU8JWPHm_-19" value="List of Missing Materials" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YCk-cneeA02lU8JWPHm_-22" value="No&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="95" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YCk-cneeA02lU8JWPHm_-23" value="Make Product" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rCqnzPvl9sCIdEZytEXS-1" value="Yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="180" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
